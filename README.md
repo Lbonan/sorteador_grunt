@@ -43,7 +43,7 @@ package-lock.json       # Versões exatas das dependências.
 ## 📦 Como Clonar e Executar o Projeto
 1. **Clone** o repositório em seu computador:
 ```bash
-git clone https://github.com/Lbonan/sorteador_grunt.git
+git clone https://github.com/seu-usuario/sorteador_grunt.git
 ```
 2. Navegue até o diretório do projeto:
 ```bash
